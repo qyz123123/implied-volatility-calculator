@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=9,<10
+ruff>=0.15,<1
+mypy>=1.20,<2
+pandas-stubs>=2.3,<3
